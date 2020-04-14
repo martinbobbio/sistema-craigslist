@@ -12,10 +12,21 @@
 ## Descripción
 
 Sistema para extraer de la busqueda de una página contenido html y devolverlo en formato JSON
+<br>
 Tencologías: Python, Django y Materialize css
 <br><br><br>
 
-### Example
+### Home
 
-![Image of pagina](src/assets/images/dashboard.png)
+![Image of pagina](static/images/home.png)
+
+### Busquedas
+
+![Image of pagina](static/images/lists.png)
+
+### Admin
+
+![Image of pagina](static/images/admin.png)
+
+
 
