@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="200">
+  <img src="https://pbs.twimg.com/profile_images/752207108750340096/CicamXxN_400x400.jpg" width="400">
   <br><br>
   <a href="https://martinbobbio.github.io/frontend-ngrx">
     Sistema craigslist
